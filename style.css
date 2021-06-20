@@ -44,7 +44,7 @@ body{
 	float: right;
 	width: 50%;
 	padding: 160px;
-	color: honeydew;
+	color: black;
 	font-size: 25px;
 	font-family: cursive;
   }
@@ -70,7 +70,7 @@ body{
 	float: left;
 	width: 80%;
 	padding: 5px;
-	color: honeydew;
+	color:black;
 	font-size: 25px;
 	font-family: cursive;
   }
@@ -92,7 +92,7 @@ body{
 	line-height: 20px;
 	width: 80%;
 	height: 50px;
-	color: #ffffff;
+	color:black;
     background: none;
     border: none;
     border-bottom: 1px solid rgb(223, 205, 205);
@@ -103,7 +103,7 @@ body{
     transition: text-indent 0.4s 0.4s ease; 
     text-indent: -100%;
 	opacity: 1;
-	color: white;
+	color:black;
  }
 
 #im1{
